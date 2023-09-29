@@ -1,5 +1,5 @@
 {
-  "name": "@notification-manager-1/admin",
+  "name": "@notification-manager/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
